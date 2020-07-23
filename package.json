@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/Gaucin/travels/issues"
   },
-  "homepage": "https://github.com/Gaucin/travels#readme"
+  "homepage": "https://github.com/Gaucin/travels#readme",
+  "devDependencies": {
+    "create-react-app": "^3.4.1",
+    "react": "^16.13.1",
+    "react-bootstrap": "^1.2.2",
+    "react-dom": "^16.13.1",
+    "webpack": "^4.43.0"
+  }
 }
